@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<releve rib="4036263287458963">
+    <dateReleve>2023-01-11</dateReleve>
+    <solde>5500.0</solde>
+    <operations>
+        <dateDebut>2023-01-11</dateDebut>
+        <dateFin>2023-01-11</dateFin>
+        <operation date="2023-01-11" montant="300.0" description="operation 1" type="CREDIT"/>
+        <operation date="2023-01-11" montant="100.0" description="operation 2" type="CREDIT"/>
+        <operation date="2023-01-11" montant="1500.0" description="operation 3" type="CREDIT"/>
+        <operation date="2023-01-11" montant="3700.0" description="operation 4" type="DEBIT"/>
+        <operation date="2023-01-11" montant="2500.0" description="operation 5" type="DEBIT"/>
+    </operations>
+</releve>
